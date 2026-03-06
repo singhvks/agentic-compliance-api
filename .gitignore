@@ -1,0 +1,52 @@
+# ─────────────────────────────────────────────
+#  .gitignore — Compliance Analysis API
+# ─────────────────────────────────────────────
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment / secrets
+.env
+*.env.local
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Type checking
+.mypy_cache/
+
+# Linting
+.ruff_cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+docs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Run Required Files
+*.bat
+*.sh
