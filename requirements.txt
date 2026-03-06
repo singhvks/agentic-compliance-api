@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────
+#  Compliance Analysis API — Production Dependencies
+#  Python 3.12+
+# ─────────────────────────────────────────────
+
+# ---------- API Framework ----------
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+
+# ---------- Data Validation & Settings ----------
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# ---------- Configuration ----------
+PyYAML==6.0.2
+python-dotenv==1.0.1
+
+# ---------- Document Ingestion ----------
+pdfplumber==0.11.4
+python-docx==1.1.2
+
+# ---------- LLM Adapters ----------
+openai==1.59.6            # OpenAI + OpenAI-compatible (Ollama, vLLM, Together AI)
+anthropic==0.42.0         # Anthropic Claude
+google-generativeai==0.8.3  # Google Gemini
+
+# ---------- HTTP Client (async) ----------
+httpx==0.28.1
+
+# ---------- Utilities ----------
+python-multipart==0.0.20  # multipart/form-data file uploads
