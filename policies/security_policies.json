@@ -1,0 +1,32 @@
+[
+    {
+        "rule_id": "SEC-001",
+        "rule": "Databases must not be publicly accessible",
+        "severity": "critical"
+    },
+    {
+        "rule_id": "SEC-002",
+        "rule": "Passwords must be hashed before storage",
+        "severity": "critical"
+    },
+    {
+        "rule_id": "SEC-003",
+        "rule": "Secrets must not be hardcoded in configuration files",
+        "severity": "high"
+    },
+    {
+        "rule_id": "SEC-004",
+        "rule": "PII must not be logged in application logs",
+        "severity": "high"
+    },
+    {
+        "rule_id": "SEC-005",
+        "rule": "All services must use TLS encryption",
+        "severity": "critical"
+    },
+    {
+        "rule_id": "SEC-006",
+        "rule": "Containers must not run as root user",
+        "severity": "medium"
+    }
+]

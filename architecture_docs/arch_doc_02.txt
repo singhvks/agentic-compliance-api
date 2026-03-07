@@ -1,0 +1,11 @@
+
+```text id="t9rbv1"
+Architecture Overview:
+
+Microservices deployed on Kubernetes cluster.
+
+Containers running as root user.
+
+API keys stored directly inside environment variables in deployment files.
+
+TLS encryption enabled for external APIs.
