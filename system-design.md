@@ -1,4 +1,4 @@
-# System Design Walkthrough — Compliance Analysis API
+# System Design Walkthrough - Compliance Analysis API
 
 This document explains the **architectural decisions behind the Compliance Analysis API**.
 The goal of this project is to demonstrate **modern GenAI backend design patterns** used in real-world AI systems.

@@ -1,7 +1,3 @@
-# ─────────────────────────────────────────────
-#  .gitignore — Compliance Analysis API
-# ─────────────────────────────────────────────
-
 # Virtual environments
 .venv/
 venv/

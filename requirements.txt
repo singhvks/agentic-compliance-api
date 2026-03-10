@@ -1,5 +1,5 @@
 # ─────────────────────────────────────────────
-#  Compliance Analysis API — Production Dependencies
+#  Compliance Analysis API - Production Dependencies
 #  Python 3.12+
 # ─────────────────────────────────────────────
 
