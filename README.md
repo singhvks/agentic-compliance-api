@@ -1,20 +1,5 @@
 # Compliance Analysis API
 
-<<<<<<< HEAD
-This is a REST API for analyzing compliance of cloud resources.
-
-## Project Documentation
-Detailed specifications, functional/non-functional requirements, and design considerations can be found in [docs/requirements.md](docs/requirements.md).
-
-## Setup
-Python 3.14.2
-
-
-
-## Run the API in Local Dev Mode
-
-
-=======
 A **model-agnostic GenAI backend** for analyzing corporate documents against compliance rules using **Retrieval Augmented Generation (RAG)**.
 
 This project demonstrates modern **LLM system architecture** using open-source components and a clean, production-style backend built with FastAPI.
@@ -370,4 +355,3 @@ This project demonstrates **real backend architecture used in modern AI systems*
 * scalable API design
 
 It serves as a **reference implementation for engineers building production-grade GenAI services**.
->>>>>>> dev
