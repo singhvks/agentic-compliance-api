@@ -1,0 +1,13 @@
+
+```text id="s0bg83"
+System Description:
+
+Mobile application communicates with backend API.
+
+Backend services deployed on AWS EC2.
+
+Database located in private subnet.
+
+All API traffic uses HTTPS.
+
+No sensitive data logged.

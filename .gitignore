@@ -1,11 +1,8 @@
-# ─────────────────────────────────────────────
-#  .gitignore — Compliance Analysis API
-# ─────────────────────────────────────────────
-
 # Virtual environments
 .venv/
 venv/
 env/
+archive/
 
 # Python cache
 __pycache__/

@@ -1,5 +1,5 @@
 # ─────────────────────────────────────────────
-#  Compliance Analysis API — Dev / Test Dependencies
+#  Compliance Analysis API - Dev / Test Dependencies
 #  Install after requirements.txt:
 #    pip install -r requirements-dev.txt
 # ─────────────────────────────────────────────

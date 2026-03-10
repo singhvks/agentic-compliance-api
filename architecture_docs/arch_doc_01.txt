@@ -1,0 +1,13 @@
+
+```text id="h0k3ns"
+Application architecture:
+
+Frontend React application deployed on public internet.
+
+Backend service running on Kubernetes.
+
+PostgreSQL database directly accessible from internet.
+
+User passwords stored in plain text.
+
+Application logs contain user email addresses.
